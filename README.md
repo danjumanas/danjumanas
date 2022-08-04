@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Danjuma Nasiru Ojochide
 - 👀 I’m interested in being a full stack web developer
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on frontend tasks
+- 🌱 I’m currently learning back end development
 - 📫 How to reach me : talk2danjumanas@gmail.com, twitter:- @NasiruOjochide
 
 <!---
